@@ -1,6 +1,6 @@
 Hi, I'm Baiqiang Yu
 I am affiliated with the School of Mechanical Engineering, Electrical Engineering and Automation at Shanghai University.
-My current interests include image restoration, deep learning, color correction, intelligent optimization, and engineering data analysis.
+My current interests include image restoration, deep learning, and color correction.
 <p>
   <a href="https://yubaiqiang.github.io/">
     <img src="https://img.shields.io/badge/Homepage-yubaiqiang.github.io-2f80ed?style=flat-square" alt="Homepage">
@@ -13,7 +13,7 @@ My current interests include image restoration, deep learning, color correction,
 
 About Me
 School of Mechanical Engineering, Electrical Engineering and Automation, Shanghai University
-Research interests: image restoration, deep learning, color correction, and intelligent engineering systems
+Research interests: image restoration, deep learning, and color correction
 Personal academic homepage: https://yubaiqiang.github.io/
 Google Scholar: Baiqiang Yu
 Research Interests
